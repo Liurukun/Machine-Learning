@@ -73,7 +73,7 @@ proxy-providers: # ← 此函数位置请勿变动！此为模块更新时备份
     override:
       additional-prefix: "p1"
     path: ./proxies/p1.yaml
-    url: "订阅链接"
+    url: "https://sub.grempt.com/link/152630/qk1GG4pzGmP0"
 
   p2:
     <<: *p
